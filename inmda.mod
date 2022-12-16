@@ -9,9 +9,6 @@ UNITS {
 	(mM) =	(millimolar)
 }
 
-
-INDEPENDENT {v FROM -100 TO 50 WITH 50 (mV)}
-
 NEURON {
 	SUFFIX nmda
 	USEION ca WRITE ica
@@ -59,6 +56,7 @@ ASSIGNED {
            ina		(mA/cm2)
            ik		(mA/cm2)
            inmda 	(mA/cm2)
+		   v 		(mV)
             pinf
 }
 
