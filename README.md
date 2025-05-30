@@ -38,8 +38,8 @@ Press the init & run button to generate the above figure.
 
 ---
 
-Changelog
-2022-12: delay.mod & inmda.mod: drop INDEPENDENT block for v
-Required for upcoming NEURON 9.0.0
+## Changelog
+2022-12: delay.mod & inmda.mod: drop INDEPENDENT block for v  
+          Required for upcoming NEURON 9.0.0
 
-2025-05-27 – Standardized to Markdown
+2025-05-27: Standardized to Markdown
